@@ -11,4 +11,6 @@ cin >> p;
 
 cout << "masukkan lebar = ";
 cin >> l;
+
+luas = p * l ;
 }
