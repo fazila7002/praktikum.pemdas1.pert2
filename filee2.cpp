@@ -13,4 +13,7 @@ cout << "masukkan lebar = ";
 cin >> l;
 
 luas = p * l ;
+
+cout << "Hasilnya = " << luas << endl;
+
 }
